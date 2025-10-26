@@ -1,4 +1,4 @@
-name: Site Reliability
+name: Monitor ABC Rewards Website
 on: 
   workflow_dispatch:
   push:
